@@ -1,0 +1,28 @@
+Command line, can control/open documents/files on computer
+- with commands can perform an operation on multiple things at once
+- for autocompleting names, use tab
+- using up and down arrow keys can revisit all previous commands
+- add * to copy everything
+
+Controls:
+pwd - print working directory
+ls - lists all files and directories inside current directory
+"ls -l" - more information about the list
+"command --help" - presents all commands conditional for the main command
+touch filename - to create new file
+mkdir dirname - to create new directory inside current directory
+"rm -r dirname" - removes directories perminantly
+rm filename - removes files perminantly
+cd dirname - enter directory 
+clear - clears terminal
+cd .. - goes back to parent directory
+cp ../FileToCopy/ /DestinationPath/ (to copy files, add -r to also copy direcotires)
+cat filename - concatinates the content of files
+mv - move or rename files
+find . -name "filename" - to search for all files with given names
+python - allows put python code directly into command line
+python filename - runs python file
+
+shortcuts
+control D - quit python back to command line
+control C - terminate code

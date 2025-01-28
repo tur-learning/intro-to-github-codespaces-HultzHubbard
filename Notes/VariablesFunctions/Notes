@@ -1,0 +1,28 @@
+Function, a named sequence of statements that preform a task
+- each input (domain) has one output (range)
+- makes a complex problem simpler, eliminate repetative code, and name a group of statements
+
+Defining Functions
+- start with "def" keyword and ends with colon (body needs to be indented)
+
+Types of Functions
+    print() - string litteral, text enclosed in quotes
+    type() - tells type of command
+
+Variables, refers to a value (never begin with numbers, only letters and numbers)
+Value, number or word
+
+Expression, combination of variables, values, and operators
+Statements, units of code with an effect (e.g. assigning a variable)
+    interpreter executes Statements
+
+Python follows PEMDAS
+
+# comments - explains code in natural language
+
+Recursion
+- dont always need to read code top to bottom, but function needs to be deffined before function is run
+
+When a variable is created inside a function, it is local and doesn't exist outside function
+
+void funciton, preforms an action but doesn't return a value
