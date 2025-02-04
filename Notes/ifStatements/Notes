@@ -1,0 +1,34 @@
+If statements needed to make decisions in code (conditionals)
+    if it's sunny, wear sunglasses
+Executes a block of code only when specific condition is met, otherwise skip to next condition
+
+Syntax:
+if condition:
+    # code that runs if
+    # the condition is true
+    pass
+
+True or false expression
+
+Bullian = true/false code
+
+Comparison operators:
+>, <, >=, <=, ==, !=
+Can be used to compare values
+
+else statements:
+an alternative to the conditions (if all the "if statements" are false, then the "else" statement is run)
+
+elif statements:
+to have multiple conditions (only when all if/elif functions are false else is run; if -> elif -> elif ect. in order top to bottom)
+
+if statements stops checking conditions after the first true condition
+
+Logical operators:
+and - both conditions have to be true
+or - at least one condition needs to be true
+not - negates the condition
+
+Nested If statements
+an if statement within an if statement
+Max number is 3 (otherwise gets too hard to follow code)
