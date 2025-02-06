@@ -1,0 +1,15 @@
+# dict opject (collection of key-value players)
+# created using {}
+# e.g. person = ["name": "Dario", "age", 30]
+
+# each entry maps a unique key to a value
+# keys must be immutable types (e.g., strings, numbers, tuples) which values can be any data types
+# dictionaries are mutable
+
+# Dictionary methods:
+# get(key, default = none): safely access a value 
+# keys(): return a view of all keys - returns a list
+# values(): return a view of all values - returns a list
+# items(): pairs of keys and values - returns a tuple
+
+# iteration works for dictionaries too

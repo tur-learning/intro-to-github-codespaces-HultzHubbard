@@ -1,0 +1,21 @@
+# Collecting ordered items (collection of items)
+# Created with []
+    # e.g. numbers = [1, 2, 3, 4, 4, 5]
+
+# they are mutable (can change, add, or remove elements without creating a new list)
+    # numbers[3] = 0
+    # numbers = numbers + ['hi']
+    # numbers.remove(300)
+
+# list methods:
+# - append(x): add x to the end of the list
+# - insert(index, x): insert x at a specific index
+# - remove(x): remove first occurance of x
+# - pop(index): remove and return the item at index (default is the last item)
+# - sort(): sort the list in place
+# - count(x): counts number of items in the list
+# - reverse(): reverse order of items in list
+
+# iterations print every item individually:
+# for n in list
+    # print(n)
