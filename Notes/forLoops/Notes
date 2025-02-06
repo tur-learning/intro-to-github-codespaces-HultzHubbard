@@ -1,0 +1,13 @@
+for repeating actions in code
+  like checking emails
+
+syntax:
+  for variables in sequence
+  # code to repeat
+  pass
+
+iterates over variables
+variable takes one value from the sequence at a time
+The loop body runs once per item in the sequence.
+
+range() funciton - returns list of function from within the range provided in the function
